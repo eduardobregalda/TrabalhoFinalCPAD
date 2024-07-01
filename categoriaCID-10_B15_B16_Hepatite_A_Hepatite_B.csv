@@ -1,0 +1,42 @@
+ Mortalidade - Brasil
+Óbitos p/Ocorrenc por Unidade da Federação e Capítulo CID-10
+Categoria CID-10: B15   Hepatite aguda A, B16   Hepatite aguda B
+Período:2010
+"Unidade da Federação";"Cap I";"Total"
+"11 Rondônia";12;12
+"12 Acre";23;23
+"13 Amazonas";5;5
+"14 Roraima";1;1
+"15 Pará";11;11
+"16 Amapá";1;1
+"17 Tocantins";3;3
+"21 Maranhão";15;15
+"22 Piauí";12;12
+"23 Ceará";14;14
+"24 Rio Grande do Norte";4;4
+"25 Paraíba";4;4
+"26 Pernambuco";22;22
+"27 Alagoas";4;4
+"28 Sergipe";3;3
+"29 Bahia";9;9
+"31 Minas Gerais";23;23
+"32 Espírito Santo";7;7
+"33 Rio de Janeiro";34;34
+"35 São Paulo";57;57
+"41 Paraná";8;8
+"42 Santa Catarina";18;18
+"43 Rio Grande do Sul";32;32
+"50 Mato Grosso do Sul";4;4
+"51 Mato Grosso";15;15
+"52 Goiás";16;16
+"53 Distrito Federal";1;1
+"Total";358;358
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

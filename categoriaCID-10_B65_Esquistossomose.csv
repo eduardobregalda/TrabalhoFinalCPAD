@@ -1,0 +1,33 @@
+ Mortalidade - Brasil
+Óbitos p/Ocorrenc por Unidade da Federação e Capítulo CID-10
+Categoria CID-10: B65   Esquistossomose
+Período:2010
+"Unidade da Federação";"Cap I";"Total"
+"21 Maranhão";1;1
+"22 Piauí";2;2
+"23 Ceará";3;3
+"24 Rio Grande do Norte";3;3
+"25 Paraíba";15;15
+"26 Pernambuco";195;195
+"27 Alagoas";27;27
+"28 Sergipe";22;22
+"29 Bahia";56;56
+"31 Minas Gerais";63;63
+"32 Espírito Santo";17;17
+"33 Rio de Janeiro";18;18
+"35 São Paulo";79;79
+"41 Paraná";4;4
+"50 Mato Grosso do Sul";1;1
+"51 Mato Grosso";1;1
+"52 Goiás";2;2
+"53 Distrito Federal";5;5
+"Total";514;514
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

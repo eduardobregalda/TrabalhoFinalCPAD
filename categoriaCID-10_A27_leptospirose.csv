@@ -1,0 +1,37 @@
+ Mortalidade - Brasil
+Óbitos p/Ocorrenc por Unidade da Federação e Capítulo CID-10
+Categoria CID-10: A27   Leptospirose
+Período:2010
+"Unidade da Federação";"Cap I";"Total"
+"11 Rondônia";1;1
+"12 Acre";3;3
+"13 Amazonas";4;4
+"15 Pará";23;23
+"16 Amapá";1;1
+"21 Maranhão";2;2
+"23 Ceará";8;8
+"24 Rio Grande do Norte";2;2
+"25 Paraíba";3;3
+"26 Pernambuco";28;28
+"27 Alagoas";3;3
+"28 Sergipe";11;11
+"29 Bahia";37;37
+"31 Minas Gerais";10;10
+"32 Espírito Santo";1;1
+"33 Rio de Janeiro";64;64
+"35 São Paulo";80;80
+"41 Paraná";45;45
+"42 Santa Catarina";19;19
+"43 Rio Grande do Sul";27;27
+"50 Mato Grosso do Sul";1;1
+"51 Mato Grosso";1;1
+"53 Distrito Federal";4;4
+"Total";378;378
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
